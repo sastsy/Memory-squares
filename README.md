@@ -1,7 +1,7 @@
 # Memory Squares
 
-An arcade game for developing memory and learning your own patterns of memorization. 
-Developed using only pygame.
+An arcade game for developing memory and learning your own patterns of memorization. <br>
+Developed using only pygame.<br>
 The user can choose between 2 levels: easy and hard. Each iteration of the game they have to memorize a certain pattern of pressed squares and repeat it. Have fun playing!
 
 ## Illustrsation of game mechanics:
